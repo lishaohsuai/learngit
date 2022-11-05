@@ -12,7 +12,7 @@ third edit
 
 forth edit
 
-<<<<<<< HEAD
+
 Creating a new branch is quick and simple.
 
 
