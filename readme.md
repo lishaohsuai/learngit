@@ -28,3 +28,6 @@ Creating a new branch is quick and simple.
 
 解决bug
 
+1 提交一个版本
+
+2 提交第二个版本
