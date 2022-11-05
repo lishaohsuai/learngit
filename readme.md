@@ -12,6 +12,7 @@ third edit
 
 forth edit
 
+<<<<<<< HEAD
 Creating a new branch is quick and simple.
 
 
@@ -20,3 +21,8 @@ Creating a new branch is quick and simple.
 2 + 2 = 4;
 
 4 + 4 = 6;
+
+快速的闪回
+
+还有早上不要玩手机
+
