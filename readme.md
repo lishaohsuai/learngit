@@ -26,3 +26,5 @@ Creating a new branch is quick and simple.
 
 还有早上不要玩手机
 
+解决bug
+
